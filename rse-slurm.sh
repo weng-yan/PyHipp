@@ -24,4 +24,4 @@ print(time.localtime()); \
 print(time.time()-t0);"
 
 
-aws sns publish --topic-arn arn:aws:sns:ap-southeast-1:018084650241:awsnotify --message "RPLSeJobDone"
+aws sns publish --topic-arn arn:aws:sns:ap-southeast-1:989852336665:awsnotify --message "RPLSeJobDone"
