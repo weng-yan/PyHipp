@@ -1,4 +1,4 @@
-.#!/bin/bash
+#!/bin/bash
 
 # Submit this script with: sbatch <this-filename>
 
